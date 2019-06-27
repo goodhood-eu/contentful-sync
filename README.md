@@ -5,7 +5,7 @@ Cli tool to sync contentful models between spaces
 ## Install
 
 ```
-npm install contentful-sync
+npm install contentful-synchronize
 ```
 
 This module targets Node.js 8 or later. If you want support for older browsers use [Babel compiler](https://babeljs.io/).

@@ -13,7 +13,7 @@ if (!existsSync(configFilePath)) {
 const configString = readFileSync(configFilePath, 'utf8');
 const config = JSON.parse(configString);
 
-const contentModel = process.argv[process.argv.length - 1];
+const contentModel = process.argv[2];
 
 contentfulsync({
   ...config,

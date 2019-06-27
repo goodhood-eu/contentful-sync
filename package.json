@@ -1,6 +1,6 @@
 {
   "name": "contentful-synchronize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cli tool to sync contentful models",
   "main": "./lib/index.js",
   "bin": {

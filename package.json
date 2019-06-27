@@ -4,7 +4,7 @@
   "description": "Cli tool to sync contentful models",
   "main": "./lib/index.js",
   "bin": {
-    "contentfulsync": "./bin/contentful-sync.js"
+    "contentful-sync": "./bin/contentful-sync.js"
   },
   "scripts": {
     "lint": "eslint ./"

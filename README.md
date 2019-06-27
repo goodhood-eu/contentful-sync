@@ -12,7 +12,7 @@ This module targets Node.js 8 or later. If you want support for older browsers u
 
 ## Usage
 
-Create .contentfulsyncrc file in project directory
+Create .contentful-sync-rc file in project directory
 
 ```json
 {
@@ -26,5 +26,5 @@ Create .contentfulsyncrc file in project directory
 Run contentful-sync
 
 ```
-$ npx contentfulsync <contentfulContentType>
+$ npx contentful-sync <contentfulContentType>
 ```

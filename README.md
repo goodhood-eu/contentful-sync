@@ -28,7 +28,3 @@ Run contentful-sync
 ```
 $ npx contentfulsync <contentfulContentType>
 ```
-
-## License
-
-MIT © Abylay Keldibek

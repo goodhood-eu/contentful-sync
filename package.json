@@ -1,10 +1,10 @@
 {
-  "name": "contentful-sync",
+  "name": "contentful-synchronize",
   "version": "0.0.0",
   "description": "Cli tool to sync contentful models",
   "main": "./lib/index.js",
   "bin": {
-    "contentfulsync": "./bin/contentfulsync.js"
+    "contentfulsync": "./bin/contentful-sync.js"
   },
   "scripts": {
     "lint": "eslint ./"

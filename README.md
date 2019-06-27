@@ -17,7 +17,7 @@ Create .contentfulsyncrc file in project directory
 ```json
 {
   "sourceSpaceId": "xxxxxx",
-  "destinationSpaceId": "xxxxxx",
+  "targetSpaceId": "xxxxxx",
   "managementToken": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 }
 

@@ -1,6 +1,6 @@
 {
   "name": "contentful-synchronize",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Cli tool to sync contentful models",
   "main": "./lib/index.js",
   "bin": {
@@ -19,13 +19,9 @@
     "url": "https://github.com/goodhood-eu/contentful-sync/issues"
   },
   "homepage": "https://github.com/goodhood-eu/contentful-sync#readme",
-  "engines": {
-    "node": "^10.x.x"
-  },
   "devDependencies": {
     "eslint": "^6.5.1",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.18.2"
+    "eslint-config-nebenan-base": "^1.0.2"
   },
   "dependencies": {
     "contentful-export": "^7.7.0",

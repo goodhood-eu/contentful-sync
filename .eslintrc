@@ -1,7 +1,3 @@
 {
-  "extends": ["airbnb-base"],
-  "rules": {
-    "no-console": "off",
-    "consistent-return": "off",
-  }
+  "extends": ["nebenan-base"]
 }

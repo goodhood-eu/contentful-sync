@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/goodhood-eu/contentful-sync#readme",
   "devDependencies": {
-    "eslint": "^6.5.1",
-    "eslint-config-nebenan-base": "^1.0.2"
+    "eslint": "^6.8.0",
+    "eslint-config-nebenan-base": "^1.3.1"
   },
   "dependencies": {
     "contentful-export": "^7.7.0",

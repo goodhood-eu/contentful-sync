@@ -9,7 +9,7 @@
   "bugs": "https://github.com/goodhood-eu/contentful-sync/issues",
   "main": "./lib/index.js",
   "bin": {
-    "contentful-sync": "./bin/contentful-sync.js"
+    "contentful-sync": "./bin/contentful_sync.js"
   },
   "scripts": {
     "lint": "eslint ./"

@@ -1,6 +1,6 @@
 {
   "name": "contentful-synchronize",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "Cli tool to sync contentful models",
   "author": "Good Hood GmbH <tech@nebenan.de>",
   "license": "MIT",

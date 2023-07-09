@@ -2,6 +2,11 @@
   "name": "contentful-synchronize",
   "version": "0.0.7",
   "description": "Cli tool to sync contentful models",
+  "author": "Good Hood GmbH <tech@nebenan.de>",
+  "license": "MIT",
+  "homepage": "https://github.com/goodhood-eu/contentful-sync#readme",
+  "repository": "github:goodhood-eu/contentful-sync",
+  "bugs": "https://github.com/goodhood-eu/contentful-sync/issues",
   "main": "./lib/index.js",
   "bin": {
     "contentful-sync": "./bin/contentful-sync.js"
@@ -9,16 +14,6 @@
   "scripts": {
     "lint": "eslint ./"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/goodhood-eu/contentful-sync.git"
-  },
-  "author": "Nebenan.de <ablay@nebenan.de>",
-  "license": "SEE LICENSE IN LICENSE FILE",
-  "bugs": {
-    "url": "https://github.com/goodhood-eu/contentful-sync/issues"
-  },
-  "homepage": "https://github.com/goodhood-eu/contentful-sync#readme",
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-config-nebenan-base": "^1.6.0"
